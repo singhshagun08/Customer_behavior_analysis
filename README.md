@@ -1,19 +1,19 @@
 # Customer_behavior_analysis - Data Analtics Poject
 
-Overview
+## Overview
 This project demonstrates an end-to-end data analytics workflow, starting from raw data to actionable insights. It covers data loading, cleaning, analysis, visualization, and reporting using industry-standard tools.
 
-Dataset
+## Dataset
 Description: The dataset contains customer behavior and transaction data used to analyze trends, patterns, and key business metrics.
 
-Tools & Technologies
+## Tools & Technologies
 Python (Pandas, NumPy, Matplotlib/Seaborn)
 SQL (PostgreSQL / MySQL / SQL Server)
 Power BI (Dashboard creation)
 Gamma (Presentation creation)
 GitHub (Version control)
 
-Project Workflow
+## Project Workflow
 1. Data Loading
    Imported dataset using Python
    Connected database for structured storage
@@ -36,17 +36,17 @@ Project Workflow
    Summarized findings in a structured report
    Created presentation using Gamma
 
-Dashboard Highlights
+## Dashboard Highlights
 1. Key performance indicators (KPIs)
 2. Customer behavior insights
 3. Sales trends and patterns
 4. Interactive filters for dynamic analysis
 
-Results & Insights
+## Results & Insights
 1. Identified major customer segments
 2. Highlighted top-performing products/categories
 3. Discovered trends impacting revenue
 4. Provided data-driven recommendations
 
-Conclusion
+## Conclusion
 This project showcases practical skills in data analytics, including data cleaning, SQL, visualization, and storytelling. It reflects the ability to turn raw data into meaningful business insights.
