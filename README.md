@@ -41,6 +41,8 @@ GitHub (Version control)
 2. Customer behavior insights
 3. Sales trends and patterns
 4. Interactive filters for dynamic analysis
+## Screenshots
+![Screenshot](images/Screenshot 2026-05-02 220333.png)
 
 ## Results & Insights
 1. Identified major customer segments
